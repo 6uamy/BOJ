@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-let input = fs.readFileSync('0').toString(); 
+let input = fs.readFileSync(0).toString(); 
 // 원래는 이부분에 '/dev/stdin'으로 입력하였으나 런타임 에러가 발생해 0으로 적어주니 해결되었다.
 
 input = input.split('\n');
