@@ -8,9 +8,7 @@ let product = [];
 let sum = 0;
 for(let i=2; i<=N+1; i++) {
     product = input[i].split(' ');
-    let a = +product[0];
-    let b = +product[1];
-    sum += a * b;
+    sum += +product[0] * +product[1];
     
 }
 
