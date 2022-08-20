@@ -1,7 +1,7 @@
 const fs = require("fs");
 let input = fs.readFileSync("/dev/stdin").toString().trim();
 
-let count = input.split('\n').map(x=>Number(x));
+let count = input.split('\n');
 let rem = count.map(x => x % 42);
 
 const result = new Set(rem); // Set 객체를 통해 중복 값을 제거한 뒤 배열을 재구성 해준다.
