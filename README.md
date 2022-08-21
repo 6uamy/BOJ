@@ -4,3 +4,8 @@
 [JavaScript 데이터 정제](https://it-factory-with-taek.tistory.com/entry/%EB%B0%B1%EC%A4%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-JavaScript%EB%A1%9C-%EB%AC%B8%EC%A0%9C-%ED%92%80%EA%B8%B0Nodejs-%EC%9E%85%EC%B6%9C%EB%A0%A5-%EA%B4%80%EB%A6%AC)
 
 #### 🖥️ 단계별 STUDY
+
+* [입출력과 사칙연산](https://github.com/6uamy/BOJ/tree/main/basic/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0)
+* [조건문](https://github.com/6uamy/BOJ/tree/main/basic/%EC%A1%B0%EA%B1%B4%EB%AC%B8)
+* [반복문](https://github.com/6uamy/BOJ/tree/main/basic/%EB%B0%98%EB%B3%B5%EB%AC%B8)
+* [1차원 배열](https://github.com/6uamy/BOJ/tree/main/basic/%EB%B0%B0%EC%97%B4)
