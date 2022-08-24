@@ -10,4 +10,7 @@
 * [반복문](https://github.com/6uamy/BOJ/tree/main/basic/%EB%B0%98%EB%B3%B5%EB%AC%B8)
 * [1차원 배열](https://github.com/6uamy/BOJ/tree/main/basic/%EB%B0%B0%EC%97%B4)
 * [함수](https://github.com/6uamy/BOJ/tree/main/basic/%ED%95%A8%EC%88%98)
+* [문자열](https://github.com/6uamy/BOJ/tree/main/basic/%EB%AC%B8%EC%9E%90%EC%97%B4)
+
+
 
