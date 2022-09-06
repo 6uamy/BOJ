@@ -12,7 +12,7 @@
 * [함수](https://github.com/6uamy/BOJ/tree/main/basic/%ED%95%A8%EC%88%98)
 * [문자열](https://github.com/6uamy/BOJ/tree/main/basic/%EB%AC%B8%EC%9E%90%EC%97%B4)
 * [기본 수학 1](https://github.com/6uamy/BOJ/tree/main/basic/%EA%B8%B0%EB%B3%B8%20%EC%88%98%ED%95%991)
-* [기본 수학 2](https://github.com/6uamy/BOJ/tree/main/basic/%EB%AC%B8%EC%9E%90%EC%97%B4)
+* [기본 수학 2](https://github.com/6uamy/BOJ/tree/main/basic/%EA%B8%B0%EB%B3%B8%20%EC%88%98%ED%95%992)
 
 
 
