@@ -7,5 +7,5 @@ let testCase = +input.shift();
 const sorted = input.sort((a, b) => a-b); 
 
 for(let i=0; i<testCase; i++){
-    console.log(sorted[i])
+    console.log(sorted[i]);
 }
