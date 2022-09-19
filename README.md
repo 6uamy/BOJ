@@ -15,4 +15,5 @@
 * [기본 수학 2](https://github.com/6uamy/BOJ/tree/main/basic/%EA%B8%B0%EB%B3%B8%20%EC%88%98%ED%95%992)
 * [정렬](https://github.com/6uamy/BOJ/tree/main/basic/%EC%A0%95%EB%A0%AC)
 * [재귀](https://github.com/6uamy/BOJ/tree/main/basic/%EC%9E%AC%EA%B7%80)
+* [브루트 포스](https://github.com/6uamy/BOJ/tree/main/basic/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)
 
