@@ -17,7 +17,8 @@
 * [재귀](https://github.com/6uamy/BOJ/tree/main/basic/%EC%9E%AC%EA%B7%80)
 * [브루트 포스](https://github.com/6uamy/BOJ/tree/main/basic/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)
 
-<br><br>
+<br>
+
 ## ✏️ 브루트 포스
 
 #### 브루트 포스는 Brute(무식한) + Force(힘) 즉, 발생 가능한 모든 경우를 무식하게 탐색한다는 뜻이다.
