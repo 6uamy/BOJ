@@ -16,6 +16,7 @@
 * [정렬](https://github.com/6uamy/BOJ/tree/main/basic/%EC%A0%95%EB%A0%AC)
 * [재귀](https://github.com/6uamy/BOJ/tree/main/basic/%EC%9E%AC%EA%B7%80)
 * [브루트 포스](https://github.com/6uamy/BOJ/tree/main/basic/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)
+* [집합과 맵](https://github.com/6uamy/BOJ/tree/main/basic/%EC%A7%91%ED%95%A9%EA%B3%BC%20%EB%A7%B5)
 
 <br>
 
