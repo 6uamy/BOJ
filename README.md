@@ -22,6 +22,7 @@
 
 * [자료구조](https://github.com/6uamy/BOJ/tree/main/start/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
 * [수학](https://github.com/6uamy/BOJ/tree/main/start/%EC%88%98%ED%95%99)
+* [다이나믹 프로그래밍](https://github.com/6uamy/BOJ/tree/main/start/DP)
 
 <br>
 
