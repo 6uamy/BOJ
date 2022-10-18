@@ -3,6 +3,12 @@
 
 [JavaScript 데이터 정제](https://it-factory-with-taek.tistory.com/entry/%EB%B0%B1%EC%A4%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-JavaScript%EB%A1%9C-%EB%AC%B8%EC%A0%9C-%ED%92%80%EA%B8%B0Nodejs-%EC%9E%85%EC%B6%9C%EB%A0%A5-%EA%B4%80%EB%A6%AC)
 
+
+### 🗒️ 알고리즘 개념 정리
+
+* [다이나믹 프로그래밍](https://velog.io/@6uamy/Algorithm-%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
+
+
 ### 🖥️ 단계별 STUDY
 
 * [입출력과 사칙연산](https://github.com/6uamy/BOJ/tree/main/basic/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0)
@@ -23,6 +29,8 @@
 * [자료구조](https://github.com/6uamy/BOJ/tree/main/start/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
 * [수학](https://github.com/6uamy/BOJ/tree/main/start/%EC%88%98%ED%95%99)
 * [다이나믹 프로그래밍](https://github.com/6uamy/BOJ/tree/main/start/DP)
+
+
 
 <br>
 
