@@ -1,11 +1,9 @@
 ## 🦖 Algorithm study 기록을 저장하는 Repository입니다. 
 
-[JavaScript 데이터 정제](https://it-factory-with-taek.tistory.com/entry/%EB%B0%B1%EC%A4%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-JavaScript%EB%A1%9C-%EB%AC%B8%EC%A0%9C-%ED%92%80%EA%B8%B0Nodejs-%EC%9E%85%EC%B6%9C%EB%A0%A5-%EA%B4%80%EB%A6%AC)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gomsoon21)](https://solved.ac/gomsoon21)
 
 ### ✏️ 알고리즘 개념 정리
-
+* [JavaScript 데이터 입출력 관리](https://velog.io/@6uamy/JavaScript-%EB%B0%B1%EC%A4%80-%EB%AC%B8%EC%A0%9C-%ED%92%80%EA%B8%B0-Node.js-%EC%9E%85%EC%B6%9C%EB%A0%A5-%EA%B4%80%EB%A6%AC)
 * [다이나믹 프로그래밍](https://velog.io/@6uamy/Algorithm-%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
 * [브루트 포스](https://velog.io/@6uamy/Algorithm-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89-%EB%B8%8C%EB%A3%A8%ED%8A%B8-%ED%8F%AC%EC%8A%A4)
 
